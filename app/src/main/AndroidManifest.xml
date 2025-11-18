@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.secureloginapp">
+    <!-- Permisos esenciales -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Permisos opcionales (solo si usarás cámara o archivos locales) -->
+    <!-- Permiso para usar cámara (opcional) -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera.any" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="false" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SecureLoginApp"
+        tools:targetApi="31">
+        <activity
+            android:name=".FaceVerificationActivity"
+            android:exported="false" />
+        <!-- Pantalla de Registro -->
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false"
+            android:label="Registro"
+            android:theme="@style/Theme.SecureLoginApp" /> <!-- Pantalla de Inicio de Sesión (principal) -->
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true"
+            android:label="Iniciar Sesión"
+            android:theme="@style/Theme.SecureLoginApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity> <!-- Pantalla posterior al login -->
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="Bienvenido"
+            android:theme="@style/Theme.SecureLoginApp" />
+    </application>
+
+</manifest>

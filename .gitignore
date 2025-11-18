@@ -1,0 +1,16 @@
+# Archivos generados por el Build
+/build
+/app/build
+
+# Archivos de configuración local
+/local.properties
+
+# Archivos del IDE (Android Studio)
+.idea/
+.gradle/
+*.iml
+*.cxx/
+
+# Logs y caches
+*.log
+/captures/
