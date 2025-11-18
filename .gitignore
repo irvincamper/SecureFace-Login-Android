@@ -1,1 +1,17 @@
+# Archivos generados por el Build
 /build
+/app/build
+
+# Archivos de configuración local
+# ¡IMPORTANTE! Nunca subas este archivo, contiene tus claves.
+local.properties
+
+# Archivos del IDE (Android Studio)
+.idea/
+.gradle/
+*.iml
+*.cxx/
+
+# Logs y caches
+*.log
+/captures/
