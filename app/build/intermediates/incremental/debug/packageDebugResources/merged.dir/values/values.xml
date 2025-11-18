@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="md_theme_background">#FCFCFF</color>
+    <color name="md_theme_error">#BA1A1A</color>
+    <color name="md_theme_errorContainer">#FFDAD6</color>
+    <color name="md_theme_inverseOnSurface">#F0F1F3</color>
+    <color name="md_theme_inversePrimary">#7CD0FF</color>
+    <color name="md_theme_inverseSurface">#2F3133</color>
+    <color name="md_theme_onBackground">#1A1C1E</color>
+    <color name="md_theme_onError">#FFFFFF</color>
+    <color name="md_theme_onErrorContainer">#410002</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#001E2D</color>
+    <color name="md_theme_onSecondary">#FFFFFF</color>
+    <color name="md_theme_onSecondaryContainer">#0B1E29</color>
+    <color name="md_theme_onSurface">#1A1C1E</color>
+    <color name="md_theme_onSurfaceVariant">#41484D</color>
+    <color name="md_theme_onTertiary">#FFFFFF</color>
+    <color name="md_theme_onTertiaryContainer">#1E1736</color>
+    <color name="md_theme_outline">#71787E</color>
+    <color name="md_theme_primary">#00658D</color>
+    <color name="md_theme_primaryContainer">#C4E7FF</color>
+    <color name="md_theme_secondary">#4F616E</color>
+    <color name="md_theme_secondaryContainer">#D2E5F5</color>
+    <color name="md_theme_surface">#FCFCFF</color>
+    <color name="md_theme_surfaceVariant">#DDE3EA</color>
+    <color name="md_theme_tertiary">#625A7D</color>
+    <color name="md_theme_tertiaryContainer">#E8DDFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">SecureLoginApp</string>
+    <string name="gcm_defaultSenderId" translatable="false">607367101145</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-szKXd_M1ngt3K7-ioQ0ozGTII_bo9u8</string>
+    <string name="google_app_id" translatable="false">1:607367101145:android:bcf66acaf87d356e91dcc8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-szKXd_M1ngt3K7-ioQ0ozGTII_bo9u8</string>
+    <string name="google_storage_bucket" translatable="false">loginapp-28b1c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">loginapp-28b1c</string>
+    <style name="Theme.SecureLoginApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimary</item>
+    </style>
+</resources>

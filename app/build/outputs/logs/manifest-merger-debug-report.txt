@@ -1,0 +1,1184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:2:1-54:12
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\397aa307742aaf82b6736efbd474a696\transformed\camera-video-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-view:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\1bc42c4d77fba66b5fe7ff4f9ab83bfb\transformed\camera-view-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\2c4b7fc213f040a31cde57e4ba3b22d1\transformed\camera-lifecycle-1.3.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Herna\.gradle\caches\8.13\transforms\95ea6a824b03ac7a3641e0b3099de15e\transformed\material-1.13.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\846516d8ca2ad0b6f8c48b3a5ccdeff5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.mlkit:face-detection:16.1.7] C:\Users\Herna\.gradle\caches\8.13\transforms\2a6bc204c09618393b26d56df0422dd7\transformed\face-detection-16.1.7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\247d1c566c58a17d2b01db56b36671af\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\15709039674251739ed8f0183282780e\transformed\appcompat-1.7.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a7907efb68c09f4398cd64fc265d0331\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0c3c3c661fc44b372850728c3bc0d152\transformed\material-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0cbd4502b5027efecd066c182af25de\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\05b12b063119f36584c37af6af43a8fe\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a601a9697c0211e7fec8b8f087349d7f\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0b6e12506e871b8437604cdc8eae160c\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7030622218d2c86c30a33210557ae001\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\836789e931d233eb48c0ba04865865d3\transformed\ui-tooling-data-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ae75c5900e8e1de51f85dd8a9e66c39f\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a78b1f230929cf3233c3583aba7ba9c6\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e83af23cf4059a5f13940d95a6506dc2\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b7202c87d8b04b952c625c9b1a6a99b6\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\91f477f6f799c3114a6557691c0b2c6c\transformed\ui-tooling-preview-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d5e7771abdeec74cc6f0988955d38c0c\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\557c85ddfd235e7c7ef92b314bf86672\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\440bd349d4dc0022b6c973e7a276acc2\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:17:1-75:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\56ac613e9e4b0460280df8a190d2a853\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\97c9f64e34372386d160e4224a9ab423\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c65c6f9fc9d550f0b1e9a3cecc89374e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\42aae276ef14e308076e9b71c94eda8c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9450af3afb91ee58a31e516aed2a3667\transformed\play-services-fido-20.1.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4caf3583dd83c7db4039f82b0a2479ab\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a5613dc0c6f6cd4a7bc63babafa4c417\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\456a0470c25494e1723e7f085d30f816\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.mlkit:vision-interfaces:16.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\971b3813b97b0ec8b877a3f78ccd6cb4\transformed\vision-interfaces-16.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8068681bb762c278830b8b489393969a\transformed\integrity-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\4be15c717a1e88894d69dd13a46a7d45\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\eaed4fa5e216f82dc9e354e6e859667a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56a477bdcbcb35f17ad6a5c375c5d78f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\5361bc19c84cee6031e8b6838fa9c32b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3e3137e2a9944ae97fe05b42f3cc28d1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0d550d4310e7210e05cda8c8cabec7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b99de78226c2a6669cb0d3e799645d5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b483657b58419336903809291ca31f4f\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d24a841fc24961a47a69eca1f6f1085b\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0a6d3c05774bae183c8210c07b541652\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\636dc9b81b34cac9732463b85c634fbe\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\475f8d4aad2f52db1e1d221e9e9ee44b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\31d908218f0d3a276383020e155cb20a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f22639712b710c6e8e0186fd8e9f0fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2cd51c005b0e9824025ae135400038d1\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd74429d25220eb0d83cc583bacde677\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9a8eabcd2ce47f8036433267463117af\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\3a1d8e23588cc9953dc39b0ed5c03538\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\df0d6ed1376f048d6b4efe1a6a3cb737\transformed\activity-ktx-1.11.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\68d93449da16cbc9b1f5db50c5ea098f\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2f5499f399d6b01082490ec88a03ca51\transformed\runtime-annotation\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\021d3e22503695fe8501356182df3775\transformed\savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0e5ae6e465c23fe1d6d6c4feef97edaa\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\e400102ee95590db110163e63d202546\transformed\savedstate-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\78090d1e5c0880fe8d05f401d6fd4648\transformed\runtime\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c7cd34c152ec03539f43428c5bfdd979\transformed\runtime-saveable\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\82ae0075b350fed89a299e5917fb1318\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\71aa559d802c35bd97df99efe4d2b5d8\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\230870ab3ac2f04e4f342a5b7f8ec08d\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bce18a01e1a3edfd1414fac60622a92d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\9d88732d780b2141e0b9e014136d321c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\83c9fe6609b56590848f0cc62cd1ff72\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4b6af64399b621e81b53fe12b559ed44\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\b8bda5d020db7b1746105fb2aa61e70d\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\e36970c2bb1d9aedc70b343b0b494ba7\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\f2bf34a8c448017b9cd948de196e1892\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\fcdc49fe9df5ebfc3b3fe37f313495a3\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\da6220bac2b6bfa9d8770a4bfabd9907\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a6dc5fef1a8ee95b125446c51996a18e\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\75a8118aa77b9c78ddeb6b29a226a4a0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bd4bff95367bbf062b8ce437d05dd5d2\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e0338f7f845dfd8bdf88d25b07e35369\transformed\activity-1.11.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d73d02461cc8783cbdf564d6ab23937\transformed\activity-compose-1.11.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\614a3c1e7f641c2b7ee1f8d08d90b164\transformed\graphics-shapes-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ebe9f280e33f7cabfa7bd6480b76aec3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8786e28b8780b5878c4f872dcfb73fbd\transformed\core-ktx-1.17.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\83eaf7945fcd2994bf96463bf08e7d74\transformed\core-viewtree-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6a2fb1e45830e731bfa83c9de58fa169\transformed\googleid-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0da6df69e810d49227e63d9e738d5367\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\6e615c835f91c4433f091c8081c89b15\transformed\transport-api-2.2.1\AndroidManifest.xml:15:1-22:12
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\eb259c23396dc25615bfff2fe340a317\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Herna\.gradle\caches\8.13\transforms\1da74098f196e8348f83d3ccceba1d98\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\526e52704b80efe6a4b55a430d1d7885\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e2fae86898226d6c563e0e46a68ece8f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2043bbab6d85a6b66ce293e2bf841621\transformed\firebase-components-18.0.0\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e962ee29b94f4ae2012e3bc06e1e1893\transformed\tracing-1.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f8097f9bd0e2f1bba1b22b82f183e998\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\d6f8f130094fd629779c76b9ec563c8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\308775300c7a7e8e9a998d7a6959deb0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\55a38ba2a243365786edc815b9fe2c13\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\504331ad9f787637b241bac2864109f2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\170a8c71a071104e961ef6826bca8285\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\51d76f81a3e9e95fc4b3b600f8ef0275\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b7bfeff0c118a20ffa2bbf6bf16fd05f\transformed\tensorflow-lite-2.16.1\AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\6a824edcc03045a4a01f103ae5d16497\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\912a068941f2f3fa2d0a6d188650cdbd\transformed\tensorflow-lite-api-2.16.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Herna\.gradle\caches\8.13\transforms\0ea4dcdd08cb09b9f1a3a0d6a63596cc\transformed\grpc-android-1.57.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Herna\.gradle\caches\8.13\transforms\35644126e41bed6a81ab412a11105cb3\transformed\image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fcf395f972aa0861e3b81ef3eb08cc6b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:22:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Herna\.gradle\caches\8.13\transforms\0ea4dcdd08cb09b9f1a3a0d6a63596cc\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Herna\.gradle\caches\8.13\transforms\0ea4dcdd08cb09b9f1a3a0d6a63596cc\transformed\grpc-android-1.57.2\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:10:5-64
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:10:19-61
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:13:9-47
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:16:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:17:22-78
+application
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:19:5-52:19
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:19:5-52:19
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:23:5-34:19
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Herna\.gradle\caches\8.13\transforms\95ea6a824b03ac7a3641e0b3099de15e\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Herna\.gradle\caches\8.13\transforms\95ea6a824b03ac7a3641e0b3099de15e\transformed\material-1.13.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\846516d8ca2ad0b6f8c48b3a5ccdeff5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\846516d8ca2ad0b6f8c48b3a5ccdeff5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:8:5-24:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:28:5-73:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c65c6f9fc9d550f0b1e9a3cecc89374e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c65c6f9fc9d550f0b1e9a3cecc89374e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9450af3afb91ee58a31e516aed2a3667\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9450af3afb91ee58a31e516aed2a3667\transformed\play-services-fido-20.1.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:4:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a5613dc0c6f6cd4a7bc63babafa4c417\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a5613dc0c6f6cd4a7bc63babafa4c417\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\456a0470c25494e1723e7f085d30f816\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\456a0470c25494e1723e7f085d30f816\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8068681bb762c278830b8b489393969a\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8068681bb762c278830b8b489393969a\transformed\integrity-1.2.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\4be15c717a1e88894d69dd13a46a7d45\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\4be15c717a1e88894d69dd13a46a7d45\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\eaed4fa5e216f82dc9e354e6e859667a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\eaed4fa5e216f82dc9e354e6e859667a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\da6220bac2b6bfa9d8770a4bfabd9907\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\da6220bac2b6bfa9d8770a4bfabd9907\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:4:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a6dc5fef1a8ee95b125446c51996a18e\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a6dc5fef1a8ee95b125446c51996a18e\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\75a8118aa77b9c78ddeb6b29a226a4a0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\75a8118aa77b9c78ddeb6b29a226a4a0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:5:5-7:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:25:5-39:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\d6f8f130094fd629779c76b9ec563c8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\d6f8f130094fd629779c76b9ec563c8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b7bfeff0c118a20ffa2bbf6bf16fd05f\transformed\tensorflow-lite-2.16.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b7bfeff0c118a20ffa2bbf6bf16fd05f\transformed\tensorflow-lite-2.16.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\912a068941f2f3fa2d0a6d188650cdbd\transformed\tensorflow-lite-api-2.16.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\912a068941f2f3fa2d0a6d188650cdbd\transformed\tensorflow-lite-api-2.16.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Herna\.gradle\caches\8.13\transforms\35644126e41bed6a81ab412a11105cb3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Herna\.gradle\caches\8.13\transforms\35644126e41bed6a81ab412a11105cb3\transformed\image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:extractNativeLibs
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:23:9-54
+	tools:targetApi
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:26:9-29
+	android:icon
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:25:9-52
+activity#com.example.secureloginapp.FaceVerificationActivity
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:28:13-53
+activity#com.example.secureloginapp.RegisterActivity
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:31:9-35:59
+	android:label
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:34:13-37
+	android:exported
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:33:13-37
+	android:theme
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:32:13-45
+activity#com.example.secureloginapp.LoginActivity
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:label
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:39:13-43
+	android:exported
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:38:13-36
+	android:theme
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:37:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.example.secureloginapp.MainActivity
+ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:47:9-51:59
+	android:label
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:50:13-39
+	android:exported
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:49:13-37
+	android:theme
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:51:13-56
+	android:name
+		ADDED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml:48:13-41
+uses-sdk
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\397aa307742aaf82b6736efbd474a696\transformed\camera-video-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-video:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\397aa307742aaf82b6736efbd474a696\transformed\camera-video-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\1bc42c4d77fba66b5fe7ff4f9ab83bfb\transformed\camera-view-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-view:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\1bc42c4d77fba66b5fe7ff4f9ab83bfb\transformed\camera-view-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\2c4b7fc213f040a31cde57e4ba3b22d1\transformed\camera-lifecycle-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\2c4b7fc213f040a31cde57e4ba3b22d1\transformed\camera-lifecycle-1.3.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Herna\.gradle\caches\8.13\transforms\95ea6a824b03ac7a3641e0b3099de15e\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.13.0] C:\Users\Herna\.gradle\caches\8.13\transforms\95ea6a824b03ac7a3641e0b3099de15e\transformed\material-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\846516d8ca2ad0b6f8c48b3a5ccdeff5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\846516d8ca2ad0b6f8c48b3a5ccdeff5\transformed\constraintlayout-2.2.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:face-detection:16.1.7] C:\Users\Herna\.gradle\caches\8.13\transforms\2a6bc204c09618393b26d56df0422dd7\transformed\face-detection-16.1.7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:face-detection:16.1.7] C:\Users\Herna\.gradle\caches\8.13\transforms\2a6bc204c09618393b26d56df0422dd7\transformed\face-detection-16.1.7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:6:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\247d1c566c58a17d2b01db56b36671af\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\247d1c566c58a17d2b01db56b36671af\transformed\appcompat-resources-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\15709039674251739ed8f0183282780e\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.1] C:\Users\Herna\.gradle\caches\8.13\transforms\15709039674251739ed8f0183282780e\transformed\appcompat-1.7.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a7907efb68c09f4398cd64fc265d0331\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a7907efb68c09f4398cd64fc265d0331\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0c3c3c661fc44b372850728c3bc0d152\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0c3c3c661fc44b372850728c3bc0d152\transformed\material-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0cbd4502b5027efecd066c182af25de\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0cbd4502b5027efecd066c182af25de\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\05b12b063119f36584c37af6af43a8fe\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\05b12b063119f36584c37af6af43a8fe\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a601a9697c0211e7fec8b8f087349d7f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a601a9697c0211e7fec8b8f087349d7f\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0b6e12506e871b8437604cdc8eae160c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0b6e12506e871b8437604cdc8eae160c\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7030622218d2c86c30a33210557ae001\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7030622218d2c86c30a33210557ae001\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\836789e931d233eb48c0ba04865865d3\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\836789e931d233eb48c0ba04865865d3\transformed\ui-tooling-data-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ae75c5900e8e1de51f85dd8a9e66c39f\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ae75c5900e8e1de51f85dd8a9e66c39f\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a78b1f230929cf3233c3583aba7ba9c6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a78b1f230929cf3233c3583aba7ba9c6\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e83af23cf4059a5f13940d95a6506dc2\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e83af23cf4059a5f13940d95a6506dc2\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b7202c87d8b04b952c625c9b1a6a99b6\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b7202c87d8b04b952c625c9b1a6a99b6\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\91f477f6f799c3114a6557691c0b2c6c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\91f477f6f799c3114a6557691c0b2c6c\transformed\ui-tooling-preview-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d5e7771abdeec74cc6f0988955d38c0c\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d5e7771abdeec74cc6f0988955d38c0c\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\557c85ddfd235e7c7ef92b314bf86672\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\557c85ddfd235e7c7ef92b314bf86672\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\440bd349d4dc0022b6c973e7a276acc2\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\440bd349d4dc0022b6c973e7a276acc2\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:21:5-23:151
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\56ac613e9e4b0460280df8a190d2a853\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\56ac613e9e4b0460280df8a190d2a853\transformed\credentials-1.2.0-rc01\AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\97c9f64e34372386d160e4224a9ab423\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\97c9f64e34372386d160e4224a9ab423\transformed\play-services-auth-api-phone-18.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c65c6f9fc9d550f0b1e9a3cecc89374e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c65c6f9fc9d550f0b1e9a3cecc89374e\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\42aae276ef14e308076e9b71c94eda8c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\42aae276ef14e308076e9b71c94eda8c\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9450af3afb91ee58a31e516aed2a3667\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9450af3afb91ee58a31e516aed2a3667\transformed\play-services-fido-20.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4caf3583dd83c7db4039f82b0a2479ab\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4caf3583dd83c7db4039f82b0a2479ab\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a5613dc0c6f6cd4a7bc63babafa4c417\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a5613dc0c6f6cd4a7bc63babafa4c417\transformed\firebase-analytics-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\456a0470c25494e1723e7f085d30f816\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\456a0470c25494e1723e7f085d30f816\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:19:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\971b3813b97b0ec8b877a3f78ccd6cb4\transformed\vision-interfaces-16.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.mlkit:vision-interfaces:16.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\971b3813b97b0ec8b877a3f78ccd6cb4\transformed\vision-interfaces-16.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8068681bb762c278830b8b489393969a\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8068681bb762c278830b8b489393969a\transformed\integrity-1.2.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\4be15c717a1e88894d69dd13a46a7d45\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\4be15c717a1e88894d69dd13a46a7d45\transformed\play-services-measurement-sdk-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\eaed4fa5e216f82dc9e354e6e859667a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] C:\Users\Herna\.gradle\caches\8.13\transforms\eaed4fa5e216f82dc9e354e6e859667a\transformed\play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56a477bdcbcb35f17ad6a5c375c5d78f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56a477bdcbcb35f17ad6a5c375c5d78f\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\5361bc19c84cee6031e8b6838fa9c32b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\5361bc19c84cee6031e8b6838fa9c32b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3e3137e2a9944ae97fe05b42f3cc28d1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3e3137e2a9944ae97fe05b42f3cc28d1\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0d550d4310e7210e05cda8c8cabec7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0d550d4310e7210e05cda8c8cabec7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b99de78226c2a6669cb0d3e799645d5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b99de78226c2a6669cb0d3e799645d5a\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b483657b58419336903809291ca31f4f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\b483657b58419336903809291ca31f4f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d24a841fc24961a47a69eca1f6f1085b\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d24a841fc24961a47a69eca1f6f1085b\transformed\dynamicanimation-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0a6d3c05774bae183c8210c07b541652\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\0a6d3c05774bae183c8210c07b541652\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\636dc9b81b34cac9732463b85c634fbe\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\636dc9b81b34cac9732463b85c634fbe\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\475f8d4aad2f52db1e1d221e9e9ee44b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\475f8d4aad2f52db1e1d221e9e9ee44b\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\31d908218f0d3a276383020e155cb20a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\31d908218f0d3a276383020e155cb20a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f22639712b710c6e8e0186fd8e9f0fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f22639712b710c6e8e0186fd8e9f0fd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2cd51c005b0e9824025ae135400038d1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2cd51c005b0e9824025ae135400038d1\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd74429d25220eb0d83cc583bacde677\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd74429d25220eb0d83cc583bacde677\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9a8eabcd2ce47f8036433267463117af\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9a8eabcd2ce47f8036433267463117af\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\3a1d8e23588cc9953dc39b0ed5c03538\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\3a1d8e23588cc9953dc39b0ed5c03538\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\df0d6ed1376f048d6b4efe1a6a3cb737\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\df0d6ed1376f048d6b4efe1a6a3cb737\transformed\activity-ktx-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\68d93449da16cbc9b1f5db50c5ea098f\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\68d93449da16cbc9b1f5db50c5ea098f\transformed\lifecycle-viewmodel-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2f5499f399d6b01082490ec88a03ca51\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-annotation-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2f5499f399d6b01082490ec88a03ca51\transformed\runtime-annotation\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\021d3e22503695fe8501356182df3775\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\021d3e22503695fe8501356182df3775\transformed\savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0e5ae6e465c23fe1d6d6c4feef97edaa\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0e5ae6e465c23fe1d6d6c4feef97edaa\transformed\savedstate-ktx-1.3.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\e400102ee95590db110163e63d202546\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-compose-android:1.3.1] C:\Users\Herna\.gradle\caches\8.13\transforms\e400102ee95590db110163e63d202546\transformed\savedstate-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\78090d1e5c0880fe8d05f401d6fd4648\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\78090d1e5c0880fe8d05f401d6fd4648\transformed\runtime\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c7cd34c152ec03539f43428c5bfdd979\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.9.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c7cd34c152ec03539f43428c5bfdd979\transformed\runtime-saveable\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\82ae0075b350fed89a299e5917fb1318\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\82ae0075b350fed89a299e5917fb1318\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\71aa559d802c35bd97df99efe4d2b5d8\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\71aa559d802c35bd97df99efe4d2b5d8\transformed\lifecycle-viewmodel-savedstate-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\230870ab3ac2f04e4f342a5b7f8ec08d\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\230870ab3ac2f04e4f342a5b7f8ec08d\transformed\lifecycle-viewmodel-2.9.4\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bce18a01e1a3edfd1414fac60622a92d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bce18a01e1a3edfd1414fac60622a92d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\9d88732d780b2141e0b9e014136d321c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\9d88732d780b2141e0b9e014136d321c\transformed\lifecycle-livedata-core-ktx-2.9.4\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\83c9fe6609b56590848f0cc62cd1ff72\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\83c9fe6609b56590848f0cc62cd1ff72\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4b6af64399b621e81b53fe12b559ed44\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\4b6af64399b621e81b53fe12b559ed44\transformed\lifecycle-livedata-core-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\b8bda5d020db7b1746105fb2aa61e70d\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\b8bda5d020db7b1746105fb2aa61e70d\transformed\lifecycle-livedata-2.9.4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\e36970c2bb1d9aedc70b343b0b494ba7\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\e36970c2bb1d9aedc70b343b0b494ba7\transformed\lifecycle-runtime-ktx\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\f2bf34a8c448017b9cd948de196e1892\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\f2bf34a8c448017b9cd948de196e1892\transformed\ads-adservices-java-1.0.0-beta05\AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\fcdc49fe9df5ebfc3b3fe37f313495a3\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\fcdc49fe9df5ebfc3b3fe37f313495a3\transformed\firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\da6220bac2b6bfa9d8770a4bfabd9907\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\da6220bac2b6bfa9d8770a4bfabd9907\transformed\play-services-tasks-18.2.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a6dc5fef1a8ee95b125446c51996a18e\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a6dc5fef1a8ee95b125446c51996a18e\transformed\play-services-measurement-base-22.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\75a8118aa77b9c78ddeb6b29a226a4a0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\75a8118aa77b9c78ddeb6b29a226a4a0\transformed\firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:3:5-44
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bd4bff95367bbf062b8ce437d05dd5d2\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\Herna\.gradle\caches\8.13\transforms\bd4bff95367bbf062b8ce437d05dd5d2\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e0338f7f845dfd8bdf88d25b07e35369\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e0338f7f845dfd8bdf88d25b07e35369\transformed\activity-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d73d02461cc8783cbdf564d6ab23937\transformed\activity-compose-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d73d02461cc8783cbdf564d6ab23937\transformed\activity-compose-1.11.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\614a3c1e7f641c2b7ee1f8d08d90b164\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-shapes-android:1.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\614a3c1e7f641c2b7ee1f8d08d90b164\transformed\graphics-shapes-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ebe9f280e33f7cabfa7bd6480b76aec3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\ebe9f280e33f7cabfa7bd6480b76aec3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8786e28b8780b5878c4f872dcfb73fbd\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\8786e28b8780b5878c4f872dcfb73fbd\transformed\core-ktx-1.17.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\83eaf7945fcd2994bf96463bf08e7d74\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-viewtree:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\83eaf7945fcd2994bf96463bf08e7d74\transformed\core-viewtree-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6a2fb1e45830e731bfa83c9de58fa169\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6a2fb1e45830e731bfa83c9de58fa169\transformed\googleid-1.1.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0da6df69e810d49227e63d9e738d5367\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\Herna\.gradle\caches\8.13\transforms\0da6df69e810d49227e63d9e738d5367\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\6e615c835f91c4433f091c8081c89b15\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.1] C:\Users\Herna\.gradle\caches\8.13\transforms\6e615c835f91c4433f091c8081c89b15\transformed\transport-api-2.2.1\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\eb259c23396dc25615bfff2fe340a317\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\eb259c23396dc25615bfff2fe340a317\transformed\firebase-encoders-json-17.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Herna\.gradle\caches\8.13\transforms\1da74098f196e8348f83d3ccceba1d98\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\Herna\.gradle\caches\8.13\transforms\1da74098f196e8348f83d3ccceba1d98\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\526e52704b80efe6a4b55a430d1d7885\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\526e52704b80efe6a4b55a430d1d7885\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e2fae86898226d6c563e0e46a68ece8f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e2fae86898226d6c563e0e46a68ece8f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2043bbab6d85a6b66ce293e2bf841621\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2043bbab6d85a6b66ce293e2bf841621\transformed\firebase-components-18.0.0\AndroidManifest.xml:18:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e962ee29b94f4ae2012e3bc06e1e1893\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e962ee29b94f4ae2012e3bc06e1e1893\transformed\tracing-1.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f8097f9bd0e2f1bba1b22b82f183e998\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f8097f9bd0e2f1bba1b22b82f183e998\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\d6f8f130094fd629779c76b9ec563c8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\d6f8f130094fd629779c76b9ec563c8f\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\308775300c7a7e8e9a998d7a6959deb0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\308775300c7a7e8e9a998d7a6959deb0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\55a38ba2a243365786edc815b9fe2c13\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\55a38ba2a243365786edc815b9fe2c13\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\504331ad9f787637b241bac2864109f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\504331ad9f787637b241bac2864109f2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\170a8c71a071104e961ef6826bca8285\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\170a8c71a071104e961ef6826bca8285\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\51d76f81a3e9e95fc4b3b600f8ef0275\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\51d76f81a3e9e95fc4b3b600f8ef0275\transformed\tensorflow-lite-support-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b7bfeff0c118a20ffa2bbf6bf16fd05f\transformed\tensorflow-lite-2.16.1\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\b7bfeff0c118a20ffa2bbf6bf16fd05f\transformed\tensorflow-lite-2.16.1\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\6a824edcc03045a4a01f103ae5d16497\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.4] C:\Users\Herna\.gradle\caches\8.13\transforms\6a824edcc03045a4a01f103ae5d16497\transformed\tensorflow-lite-support-api-0.4.4\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\912a068941f2f3fa2d0a6d188650cdbd\transformed\tensorflow-lite-api-2.16.1\AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] C:\Users\Herna\.gradle\caches\8.13\transforms\912a068941f2f3fa2d0a6d188650cdbd\transformed\tensorflow-lite-api-2.16.1\AndroidManifest.xml:6:5-7:38
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Herna\.gradle\caches\8.13\transforms\0ea4dcdd08cb09b9f1a3a0d6a63596cc\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] C:\Users\Herna\.gradle\caches\8.13\transforms\0ea4dcdd08cb09b9f1a3a0d6a63596cc\transformed\grpc-android-1.57.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Herna\.gradle\caches\8.13\transforms\35644126e41bed6a81ab412a11105cb3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\Herna\.gradle\caches\8.13\transforms\35644126e41bed6a81ab412a11105cb3\transformed\image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fcf395f972aa0861e3b81ef3eb08cc6b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fcf395f972aa0861e3b81ef3eb08cc6b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Herna\Downloads\SecureLoginApp\app\src\main\AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\ce6a02a9a23ddd8943b2dd1e66c7d4f9\transformed\camera-core-1.3.3\AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\35ac21b1a899f8d472b154ec4d9e1923\transformed\camera-camera2-1.3.3\AndroidManifest.xml:31:17-103
+service#com.google.mlkit.common.internal.MlKitComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:15:9-23:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:10:13-91
+meta-data#com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar
+ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-mlkit-face-detection:17.1.0] C:\Users\Herna\.gradle\caches\8.13\transforms\a0a183efe3fd1921856b0e961cc6dea0\transformed\play-services-mlkit-face-detection-17.1.0\AndroidManifest.xml:13:17-114
+meta-data#com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar
+ADDED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.mlkit:vision-common:17.2.0] C:\Users\Herna\.gradle\caches\8.13\transforms\47b2cf8794aabafb20fa51111d0f5a7a\transformed\vision-common-17.2.0\AndroidManifest.xml:13:17-124
+provider#com.google.mlkit.common.internal.MlKitInitProvider
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:9:9-13:38
+	android:authorities
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:11:13-69
+	android:exported
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:13:13-35
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:10:13-78
+meta-data#com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar
+ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.mlkit:common:18.11.0] C:\Users\Herna\.gradle\caches\8.13\transforms\6ccbe639c91ff6c5150431a804353a54\transformed\common-18.11.0\AndroidManifest.xml:21:17-120
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e7229debfcdfdde85a71f5fbd75b83e9\transformed\ui-tooling-release\AndroidManifest.xml:24:13-71
+activity#androidx.activity.ComponentActivity
+ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:23:9-25:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\2d1526289fa09c8726c464f75063d640\transformed\ui-test-manifest-1.7.0\AndroidManifest.xml:24:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:11:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseLegacyRegistrar
+ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\93bf590207817b39776cb7b83f50ad01\transformed\firebase-database-ktx-21.0.0\AndroidManifest.xml:13:17-127
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\e676339c14dffe615e663d6df10f38ed\transformed\firebase-database-21.0.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreLegacyRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d1d2d54dcae82f12c86f1666d5bfd2f5\transformed\firebase-firestore-ktx-25.0.0\AndroidManifest.xml:13:17-129
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\442306ca32da7573ef6997ed04d8e5d7\transformed\firebase-firestore-25.0.0\AndroidManifest.xml:21:17-111
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\7bd51174814747f81d8d9dbea74a4277\transformed\firebase-auth-ktx-23.0.0\AndroidManifest.xml:12:17-119
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\debfd3b813be0936ebd3de0716fcd6fb\transformed\firebase-auth-23.0.0\AndroidManifest.xml:70:17-109
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] C:\Users\Herna\.gradle\caches\8.13\transforms\57f5320a1ded5bafe63e231c972e49ea\transformed\credentials-play-services-auth-1.2.0-rc01\AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.7.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3fbd81b2244bf1d3830691ac8ad64ac4\transformed\play-services-auth-20.7.0\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:9-173
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.5.0] C:\Users\Herna\.gradle\caches\8.13\transforms\9444062b82354277e4ed6f42b0548104\transformed\play-services-base-18.5.0\AndroidManifest.xml:5:19-85
+meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsLegacyRegistrar
+ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics-ktx:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\471eae45d94229a8c7cff15593fcc8c8\transformed\firebase-analytics-ktx-22.0.0\AndroidManifest.xml:12:17-129
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\d4eb413713260964ca45dbc3ab57c394\transformed\play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\00c21245286943e47b91ffab3ebbb19b\transformed\play-services-measurement-sdk-api-22.0.0\AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:27:22-79
+property#android.adservices.AD_SERVICES_CONFIG
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\fd843914d93047e51e54a75a1d194004\transformed\play-services-measurement-api-22.0.0\AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\29a63e1710b24ea8801aba922f79e8a6\transformed\firebase-common-ktx-21.0.0\AndroidManifest.xml:13:17-116
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] C:\Users\Herna\.gradle\caches\8.13\transforms\26ecc917d9a455c59b310eb0983e6f37\transformed\firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\895071ea443bed3e021abe25b3aaa8a9\transformed\firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\18b8788613384cd7a333889020b0e077\transformed\recaptcha-18.4.0\AndroidManifest.xml:9:22-95
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\c973de0347311728aacdf11fa8dbf891\transformed\play-services-measurement-impl-22.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] C:\Users\Herna\.gradle\caches\8.13\transforms\25013c5990df8bedd4a8bb3fb020e6a4\transformed\play-services-measurement-22.0.0\AndroidManifest.xml:40:13-87
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Herna\.gradle\caches\8.13\transforms\173f5602302e5cbb70daa46a8ad717c0\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f80f8da87296dc6902f33d1d1e11cdcd\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+permission#com.example.secureloginapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.secureloginapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.17.0] C:\Users\Herna\.gradle\caches\8.13\transforms\3d64cc48be82425fe2ef1b49933ac5b8\transformed\core-1.17.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.9.4] C:\Users\Herna\.gradle\caches\8.13\transforms\eac8f4358b4881b81f62e2e994cc8480\transformed\lifecycle-process-2.9.4\AndroidManifest.xml:30:17-78
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] C:\Users\Herna\.gradle\caches\8.13\transforms\d98de34171b8483c8523fb04bc767f36\transformed\ads-adservices-1.0.0-beta05\AndroidManifest.xml:24:13-50
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:9-122
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\56e64c4482bfe67845aa0b1d61b43353\transformed\play-services-basement-18.4.0\AndroidManifest.xml:6:20-65
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\Herna\.gradle\caches\8.13\transforms\d38940e31d7dff3c912eba4242c017ab\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\Herna\.gradle\caches\8.13\transforms\9484e402e4f1320c8cafa170e3c64627\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\Herna\.gradle\caches\8.13\transforms\f87b698c386bcfd5c040371ba1909ceb\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
